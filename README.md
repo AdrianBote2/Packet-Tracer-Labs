@@ -8,6 +8,7 @@ A collection of Cisco Packet Tracer labs built while studying for CompTIA Networ
 |---|---|
 | [Lab 01](#lab-01---basic-network-topology) | Basic Network Topology |
 | [Lab 02](#lab-02---network-topology-wiring) | Network Topology Wiring |
+| [Lab 03](#lab-03---osi-model) | OSI Model |
 
 ---
 
@@ -47,5 +48,19 @@ Properly connect devices with correct connections consisting of copper straight-
 
 ---
 
-## Lab 03 - [Next Topic]
+## Lab 03 - OSI Model
+
+<img width="1174" height="518" alt="OSI Model - Lab 03" src="https://github.com/user-attachments/assets/0e752ca3-a535-4894-a0d9-d0f684daea63" />
+
+### Objective
+Simulating the OSI Model to under stand the process step by step through various devices.
+
+### Topology Design
+- Devices used: 1 Server, 2 Routers, 2 Switches, 1 PC
+
+### What I learned
+- Each Purpose of the OSI Model and TCP/IP Layers and its purpose of communicating from one device to another
+- Encapsulation and Decapsulation is the process of each layer either receiving or building a message usually it comes in the opposite way for proper translation
+
+---
 
