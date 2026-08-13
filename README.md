@@ -9,6 +9,7 @@ A collection of Cisco Packet Tracer labs built while studying for CompTIA Networ
 | [Lab 01](#lab-01---basic-network-topology) | Basic Network Topology |
 | [Lab 02](#lab-02---network-topology-wiring) | Network Topology Wiring |
 | [Lab 03](#lab-03---osi-model) | OSI Model |
+| [Lab 04](#lab-04---basic-cli) | Basic CLI |
 
 ---
 
@@ -64,3 +65,18 @@ Simulating the OSI Model to under stand the process step by step through various
 
 ---
 
+## Lab 04 - CLI (Command Line Interface)
+
+<img width="1174" height="518" alt="CLI - Lab 04" src="https://github.com/user-attachments/assets/e07075b0-dca1-468a-b26c-cd699747e486" />
+
+
+### Objective
+Learn basic CLI commands.
+
+### What I learned
+- Creating a Cisco password with both secret and password command.
+- secret command has a stronger hash than the password command.
+- config files can save previous states of the CLI
+- How to properly secure privilege access and how to utilize privilege access for creating files.
+
+---
