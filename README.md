@@ -10,6 +10,7 @@ A collection of Cisco Packet Tracer labs built while studying for CompTIA Networ
 | [Lab 02](#lab-02---network-topology-wiring) | Network Topology Wiring |
 | [Lab 03](#lab-03---osi-model) | OSI Model |
 | [Lab 04](#lab-04---basic-cli) | Basic CLI |
+| [Lab 05](#lab-05---analyzing-ethernet-switching) | Analyzing Ethernet Switching |
 
 ---
 
@@ -78,5 +79,23 @@ Learn basic CLI commands.
 - secret command has a stronger hash than the password command.
 - config files can save previous states of the CLI
 - How to properly secure privilege access and how to utilize privilege access for creating files.
+
+---
+
+## Lab 05 - Analyzing Ethernet Switching 
+
+<img width="1920" height="1032" alt="Analyzing Ethernet Switching - Lab 05" src="https://github.com/user-attachments/assets/13b9593d-811b-4f27-b59a-9dd5b57c4fbc" />
+
+### Objective
+Ping and understand how Mac addresses help with finding devices through switches.
+
+### Topology Design
+- Devices used: 4 PCs, 2 Switches
+- Basic LAN design with 2 switches and 4 PCs.
+
+### What I learned
+- The step by step process of MAC address tabling
+- How ICMP works after completion of finding the device
+- The difference and purpose of both unicast and broadcast
 
 ---
