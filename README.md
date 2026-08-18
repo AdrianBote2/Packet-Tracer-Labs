@@ -103,15 +103,15 @@ Ping and understand how Mac addresses help with finding devices through switches
 
 **Part 1: Configuring IP Addresses**
 
-<img width="600" alt="Configuring IP Addresses - LAB 06 p1" src="https://github.com/user-attachments/assets/759ebe39-4f50-4c61-a115-5c8fd67ba443" />
+<img width="1174" height="518" alt="Configuring IP Addresses - LAB 06 p1" src="https://github.com/user-attachments/assets/759ebe39-4f50-4c61-a115-5c8fd67ba443" />
 
 **Part 2: Configuring IP Addresses (continued)**
 
-<img width="600" alt="Configuring IP Addresses - LAB 06 p3" src="https://github.com/user-attachments/assets/ecf1b704-0d7e-4352-8b5c-c8ec74d6e095" />
+<img width="1174" height="518" alt="Configuring IP Addresses - LAB 06 p3" src="https://github.com/user-attachments/assets/ecf1b704-0d7e-4352-8b5c-c8ec74d6e095" />
 
 **Part 3: Pinging other devices connected to the router**
 
-<img width="600" alt="Pinging other Devices connected to the router - LAB 06 p2" src="https://github.com/user-attachments/assets/8ff447f6-acbd-41de-8eb4-2a3b9446f6b2" />
+<img width="1174" height="518" alt="Pinging other Devices connected to the router - LAB 06 p2" src="https://github.com/user-attachments/assets/8ff447f6-acbd-41de-8eb4-2a3b9446f6b2" />
 
 ### Objective
 Manually configuring and troubleshooting any connectivity issues to connect devices from different LANs.
