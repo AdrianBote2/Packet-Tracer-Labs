@@ -11,7 +11,7 @@ A collection of Cisco Packet Tracer labs built while studying for CompTIA Networ
 | [Lab 03](#lab-03---osi-model) | OSI Model |
 | [Lab 04](#lab-04---basic-cli) | Basic CLI |
 | [Lab 05](#lab-05---analyzing-ethernet-switching) | Analyzing Ethernet Switching |
-
+| [Lab 06](#lab-06---configuring-ip-addresses) | Configuring IP Addresses |
 ---
 
 ## Lab 01 - Basic Network Topology
@@ -98,4 +98,29 @@ Ping and understand how Mac addresses help with finding devices through switches
 - How ICMP works after completion of finding the device
 - The difference and purpose of both unicast and broadcast
 
+---
+## Lab 06 - Configuring IP Addresses
+
+**Part 1: Configuring IP Addresses**
+
+<img width="600" alt="Configuring IP Addresses - LAB 06 p1" src="https://github.com/user-attachments/assets/759ebe39-4f50-4c61-a115-5c8fd67ba443" />
+
+**Part 2: Configuring IP Addresses (continued)**
+
+<img width="600" alt="Configuring IP Addresses - LAB 06 p3" src="https://github.com/user-attachments/assets/ecf1b704-0d7e-4352-8b5c-c8ec74d6e095" />
+
+**Part 3: Pinging other devices connected to the router**
+
+<img width="600" alt="Pinging other Devices connected to the router - LAB 06 p2" src="https://github.com/user-attachments/assets/8ff447f6-acbd-41de-8eb4-2a3b9446f6b2" />
+
+### Objective
+Manually configuring and troubleshooting any connectivity issues to connect devices from different LANs.
+
+### Topology Design
+- 3 LANs, 1 Router, 3 Switches, 3 PCs  
+- The design has 3 Local Area Networks which are used to visualize how routers and switches work together in the networking and how packets are sent across networks.
+
+### What I learned
+- Configuring devices over local networks and allowing devices to send packets to other devices in different LANs.
+- Pinging and troubleshooting configuration issues.
 ---
